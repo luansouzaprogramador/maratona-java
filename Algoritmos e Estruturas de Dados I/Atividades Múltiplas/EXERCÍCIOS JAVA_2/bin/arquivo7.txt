@@ -1,0 +1,45 @@
+Luana Marcelino de Souza
+18
+F
+3
+113.1
+Ana Cálita
+18
+Feminino
+5
+117.25
+Gustavo Marcelino de Souza
+29
+M
+7
+235.5
+Marly Marcelino Cordeiro
+48
+Feminino
+3
+56.34
+Guilherme Marcelino de Souza
+22
+Masculino
+5
+300
+Lina Marcelino Cordeiro
+67
+F
+7
+769.55
+Marta Marcelino Cordeiro
+46
+F
+7
+546.23
+Itamar Marcelino Cordeiro
+54
+M
+5
+715.43
+Cláudio Henrique de Oliveira
+23
+M
+3
+234.56
